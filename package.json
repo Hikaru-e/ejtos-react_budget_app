@@ -7,6 +7,9 @@
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
     "bootstrap": "^5.2.2",
+    "eslint": "^8.46.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-jest": "^27.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
@@ -37,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/experimental-utils": "^5.62.0"
   }
 }
